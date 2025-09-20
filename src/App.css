@@ -57,3 +57,7 @@ input {
   background-color: rgb(155, 155, 155);
   color: black;
 }
+
+* {
+  background-color: aqua;
+}
